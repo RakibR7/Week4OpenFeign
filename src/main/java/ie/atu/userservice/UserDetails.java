@@ -1,4 +1,4 @@
-package ie.atu.openfeign;
+package ie.atu.userservice;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

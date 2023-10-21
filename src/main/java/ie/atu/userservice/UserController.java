@@ -1,4 +1,4 @@
-package ie.atu.openfeign;
+package ie.atu.userservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

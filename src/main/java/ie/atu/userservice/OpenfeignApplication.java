@@ -1,4 +1,4 @@
-package ie.atu.openfeign;
+package ie.atu.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
